@@ -14,5 +14,4 @@ public class TheTichLapPhuong {
 		double theTich = canh * canh * canh;
 		System.out.println("Thể tích của khối lập phương là: "+ theTich);
 	}
-
 }
